@@ -11,16 +11,6 @@ Bem-vindo ao repositório do meu site de apresentação e portfólio pessoal. Es
 
 Sou graduando em Ciência da Computação pelo CEFET-RJ, com um foco profundo em entender como as coisas funcionam por baixo dos panos — desde a arquitetura de sistemas de baixo nível e operações de kernel até a construção de soluções em Inteligência Artificial e Data Science. 
 
-Atualmente, atuo como líder da sub-equipe de Hardware da **WolfByte** (Ramo Estudantil IEEE CEFET-RJ) e sou entusiasta de ambientes minimalistas e eficientes, utilizando rotineiramente o ecossistema Debian Linux com gerenciadores de janelas tiling (Hyprland).
-
-## 🚀 Projetos em Destaque no Portfólio
-
-Através deste site, você poderá explorar detalhes sobre projetos como:
-
-*   **ClariData:** Um projeto SaaS focado no processamento inteligente de faturas em PDF utilizando IA.
-*   **WolfByte Hardware:** Desenvolvimento prático envolvendo microcontroladores (ESP32/Arduino), incluindo a construção de um computador de 4/8-bits e robótica aplicada com Visão Computacional.
-*   **Pesquisa Acadêmica:** Relatórios e iniciações científicas explorando a intersecção entre IA e Ciência de Dados.
-
 ## 🛠️ Stack Tecnológica do Site
 
 Este portfólio foi desenvolvido utilizando:
